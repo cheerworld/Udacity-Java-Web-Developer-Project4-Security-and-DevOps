@@ -517,3 +517,48 @@ insert into cart (total,id) values (?,default) [42104-224]
 2025-02-05 19:19:17 - Closing JPA EntityManagerFactory for persistence unit 'default'
 2025-02-05 19:19:17 - HikariPool-1 - Shutdown initiated...
 2025-02-05 19:19:17 - HikariPool-1 - Shutdown completed.
+2025-02-06 10:37:40 - Starting SareetaApplication using Java 21.0.4 with PID 56384 (C:\Users\cheer\Udacity\web-development-in-java\P04-Security-and-DevOps\starter_code\target\classes started by cheer in C:\Users\cheer\Udacity\web-development-in-java\P04-Security-and-DevOps\starter_code)
+2025-02-06 10:37:40 - No active profile set, falling back to 1 default profile: "default"
+2025-02-06 10:37:42 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-06 10:37:42 - Finished Spring Data repository scanning in 86 ms. Found 4 JPA repository interfaces.
+2025-02-06 10:37:44 - Tomcat initialized with port 8080 (http)
+2025-02-06 10:37:44 - Starting service [Tomcat]
+2025-02-06 10:37:44 - Starting Servlet engine: [Apache Tomcat/10.1.31]
+2025-02-06 10:37:44 - Initializing Spring embedded WebApplicationContext
+2025-02-06 10:37:44 - Root WebApplicationContext: initialization completed in 3133 ms
+2025-02-06 10:37:44 - HikariPool-1 - Starting...
+2025-02-06 10:37:44 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:bootapp user=SA
+2025-02-06 10:37:44 - HikariPool-1 - Start completed.
+2025-02-06 10:37:44 - H2 console available at '/h2'. Database available at 'jdbc:h2:mem:bootapp'
+2025-02-06 10:37:45 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-06 10:37:45 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2025-02-06 10:37:45 - HHH000026: Second-level cache disabled
+2025-02-06 10:37:45 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-06 10:37:45 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-02-06 10:37:47 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-06 10:37:47 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-06 10:37:48 - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2025-02-06 10:37:48 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-06 10:37:49 - Tomcat started on port 8080 (http) with context path '/'
+2025-02-06 10:37:49 - Started SareetaApplication in 9.698 seconds (process running for 10.487)
+2025-02-06 10:38:14 - Starting SareetaApplicationTests using Java 21.0.4 with PID 52624 (started by cheer in C:\Users\cheer\Udacity\web-development-in-java\P04-Security-and-DevOps\starter_code)
+2025-02-06 10:38:14 - No active profile set, falling back to 1 default profile: "default"
+2025-02-06 10:38:15 - Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-06 10:38:15 - Finished Spring Data repository scanning in 83 ms. Found 4 JPA repository interfaces.
+2025-02-06 10:38:16 - HHH000204: Processing PersistenceUnitInfo [name: default]
+2025-02-06 10:38:17 - HHH000412: Hibernate ORM core version 6.5.3.Final
+2025-02-06 10:38:17 - HHH000026: Second-level cache disabled
+2025-02-06 10:38:17 - No LoadTimeWeaver setup: ignoring JPA class transformer
+2025-02-06 10:38:17 - HikariPool-1 - Starting...
+2025-02-06 10:38:17 - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:bootapp user=SA
+2025-02-06 10:38:17 - HikariPool-1 - Start completed.
+2025-02-06 10:38:18 - HHH90000025: H2Dialect does not need to be specified explicitly using 'hibernate.dialect' (remove the property setting and it will be selected by default)
+2025-02-06 10:38:19 - HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+2025-02-06 10:38:19 - Initialized JPA EntityManagerFactory for persistence unit 'default'
+2025-02-06 10:38:20 - Global AuthenticationManager configured with UserDetailsService bean with name userDetailsServiceImpl
+2025-02-06 10:38:20 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-02-06 10:38:21 - H2 console available at '/h2'. Database available at 'jdbc:h2:mem:bootapp'
+2025-02-06 10:38:21 - Started SareetaApplicationTests in 8.173 seconds (process running for 9.747)
+2025-02-06 10:38:22 - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-06 10:38:22 - HikariPool-1 - Shutdown initiated...
+2025-02-06 10:38:22 - HikariPool-1 - Shutdown completed.
